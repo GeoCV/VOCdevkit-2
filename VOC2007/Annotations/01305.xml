@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S</folder>
+	<filename>01305.jpg</filename>
+	<path>/home/lee/桌面/S/01305.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>feature 1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>371</ymin>
+			<xmax>361</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>
